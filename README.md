@@ -15,8 +15,8 @@ https://user-images.githubusercontent.com/107203586/189934409-a154bc32-6686-48a4
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)](https://dev-evelin-product-preview-card-compo.netlify.app/)
+ 
+- Live Site URL: [dev-evelin-product-preview-card-compo.netlify.app](https://your-live-site-url.com)
 
 ### Built with
 
@@ -25,8 +25,7 @@ https://user-images.githubusercontent.com/107203586/189934409-a154bc32-6686-48a4
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-<br>
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills]](https://skillicons.dev)
+
 
 ## Author
 
