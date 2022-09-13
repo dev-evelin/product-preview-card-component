@@ -4,15 +4,19 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Preview
 
-![](screenshot-mobile.png)
-![](screenshot-desktop.png)
+![](preview.png)
+
 
 ### Video
+
+
+https://user-images.githubusercontent.com/107203586/189934409-a154bc32-6686-48a4-9204-61ff68207438.mov
+
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)](https://dev-evelin-product-preview-card-compo.netlify.app/)
 
 ### Built with
 
@@ -21,6 +25,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+<br>
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills]](https://skillicons.dev)
 
 ## Author
 
